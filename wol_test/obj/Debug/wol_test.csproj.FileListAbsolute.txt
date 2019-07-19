@@ -1,0 +1,7 @@
+C:\Users\AI\source\repos\wol_test\wol_test\bin\Debug\wol_test.exe.config
+C:\Users\AI\source\repos\wol_test\wol_test\bin\Debug\wol_test.exe
+C:\Users\AI\source\repos\wol_test\wol_test\bin\Debug\wol_test.pdb
+C:\Users\AI\source\repos\wol_test\wol_test\obj\Debug\wol_test.csprojAssemblyReference.cache
+C:\Users\AI\source\repos\wol_test\wol_test\obj\Debug\wol_test.csproj.CoreCompileInputs.cache
+C:\Users\AI\source\repos\wol_test\wol_test\obj\Debug\wol_test.exe
+C:\Users\AI\source\repos\wol_test\wol_test\obj\Debug\wol_test.pdb
